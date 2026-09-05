@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+crash.log
+logs.txt
+
+build/
+dist/
+installer_output/
+platform-tools/
+tesseract/
